@@ -219,11 +219,12 @@ img {
 
 .left-content {
     left: 0;
-    text-align: right;
+    text-align: center;
 }
 
 .right-content {
     left: 50%;
+    text-align: center;
 }
 
 .right-content img {
