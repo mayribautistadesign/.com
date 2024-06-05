@@ -204,7 +204,7 @@ img {
 
 .content-time img {
     position: absolute;
-    width: 90px;
+    width: 70px;
     border-radius: 50%;
     right: -20px;
     top: 32px;
@@ -227,11 +227,11 @@ img {
 }
 
 .right-content img {
-    left: -45px;
+    left: -35px;
 }
 
 .left-content img {
-    right: -45px;
+    right: -35px;
 }
 
 /* ICONBOX */
