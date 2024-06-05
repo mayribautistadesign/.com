@@ -122,7 +122,7 @@ img {
 
 /* HERO */
 #inicio {
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../img/portada2.png);
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0), rgba(var(--c-brand-rgb), 0)), url(../img/marco.png);
     background-position: center;
     background-size: cover;
 }
@@ -341,7 +341,7 @@ img {
 
 /* Texto */
 #counter {
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.6), rgba(var(--c-brand-rgb), 0.6)), url(../img/rosas.png);
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.6), rgba(var(--c-brand-rgb), 0.6)), url(../img/floreslilas.png);
     background-position: center;
     background-size: cover;
 }
