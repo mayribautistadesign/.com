@@ -219,36 +219,40 @@ body {
     background-color: #EEDFE5;
     text-align: center;
     border-radius: 10px;
-    width: 370px;
+    width: 300px;
     padding: 60px 40px;
-    --color-plan: #696871;
-    --color-price: #1D293F;
+    --color-plan: #000000;
+    --color-price: #000000;
     --bg-cta: #fff;
     --color-cta: #000000;
-    --color-items: #696871;
+    --color-items: #000000;
+}
+
+.color__price {
+    --color-price: #000000;
 }
 
 .price__element--best{
-    width: 370px;
+    width: 300px;
     padding: 60px 40px;
     background-color: #BEBEBE;
-    --color-plan: #696871;
-    --color-price: #1D293F;
+    --color-plan: #000000;
+    --color-price: #000000;
     --bg-cta: #fff;
     --color-cta: #000000;
-    --color-items: #696871;
+    --color-items: #000000;
 }
 
 .price__element--oro{
-    width: 370px;
+    width: 300px;
     padding: 60px 40px;
     border-radius: 10px;
     background-color: #EDBB99;
-    --color-plan: #696871;
-    --color-price: #1D293F;
+    --color-plan: #000000;
+    --color-price: #000000;
     --bg-cta: #fff;
     --color-cta: #000000;
-    --color-items: #696871;
+    --color-items: #000000;
 }
 
 
@@ -258,18 +262,19 @@ body {
     font-weight: 300;
 }
 
+
 .price__price{
     font-size: 2.5rem;
     color: var(--color-price);
 }
 
 .price__items{
-    margin-top: 35px;
+    margin-top: 20px;
     display: grid;
-    gap: 1em;
-    font-weight: 300;
-    font-size: 1.2rem;
-    margin-bottom: 50px;
+    gap: .9em;
+    font-weight: 250;
+    font-size: 1rem;
+    margin-bottom: 30px;
     color: var(--color-items);
 }
 
